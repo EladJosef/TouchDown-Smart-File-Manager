@@ -1,0 +1,13 @@
+:root {
+    --main-color: #12448e;
+    --lighter-main-color: #71c0d8;
+    --black: #222831;
+    --blank-color: #eeeeee;
+    --secondary-color: #393E46;
+    --background-color: linear-gradient(to bottom, var(--main-color), var(--lighter-main-color));
+}
+
+body {
+    margin: 0 0;
+    padding: 0 0;
+}
