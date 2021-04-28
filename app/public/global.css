@@ -3,8 +3,10 @@
     --lighter-main-color: #71c0d8;
     --black: #222831;
     --blank-color: #eeeeee;
-    --secondary-color: #393E46;
+    --pure-white: #fff;
+    --secondary-color: #949494;
     --background-color: linear-gradient(to bottom, var(--main-color), var(--lighter-main-color));
+    --background-color-op: linear-gradient(to top, var(--main-color), var(--lighter-main-color));
 }
 
 body {
